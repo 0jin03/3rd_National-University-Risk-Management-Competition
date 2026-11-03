@@ -1,2 +1,9 @@
-# 3rd_National-University-Risk-Management-Competition
-Hosted by Samsung Fire &amp; Marine Insurance, POSTECH, and Seoul National University Theme: Risk Management Insight &amp; Insur-novation
+# 제3회 전국 대학생 리스크 관리 경진대회
+
+삼성화재·POSTECH·서울대학교가 주최하는 리스크 관리 경진대회 관련 기록을 위한 저장소입니다.
+
+**Theme:** Risk Management Insight & Insur-novation
+
+## 현재 공개 자료
+
+현재 저장소에는 프로젝트 소개 README만 포함되어 있습니다. 분석 코드, 데이터, 발표 자료 및 결과는 공개되어 있지 않습니다.
